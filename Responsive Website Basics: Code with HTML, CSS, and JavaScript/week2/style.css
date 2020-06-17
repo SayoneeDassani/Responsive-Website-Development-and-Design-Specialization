@@ -1,0 +1,11 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+h1{
+	/**Acces the h1 element */
+	 background-color: #172a45;/**changes the background colour */
+	 /** */
+	 font-size: 100px;/** Changes the font size*/
+	 color: #64ffda;/**Chnages colour of the heading itself */
+	 font-family: 'Ubuntu Mono', monospace;/** Changes the font family  */
+}
